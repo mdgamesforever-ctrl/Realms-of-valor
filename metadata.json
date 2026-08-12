@@ -1,0 +1,6 @@
+{
+  "name": "Realms of Valor",
+  "description": "A text-driven fantasy RPG with class progression, branching choices, merchant shop, and tactical turn-based combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
